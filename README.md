@@ -50,7 +50,7 @@ public class MyCommitment {
 My solutions are organized into clear, intuitive folders to help track progress:
 | Directory   | Focus   | Status   | Key Concepts|
 | :---  | :--- | :--- | :--- |
-| `01_Conditional Statements` | Basic Syntax and Control Flow | ✅ In Progress | Conditionals (if/else, switch)|
+| `01_Conditional_Statements` | Basic Syntax and Control Flow | ✅ In Progress | Conditionals (if/else, switch)|
 | `02_Loops` | Basic Syntax of loops  | ✅ In Progress | Loops (for, while)|
 | `03_Patterns` | Using loops for geometric patterns  | ✅ In Progress | Nested loops, logic for pattern generation |
 | `04_Functions` | Function & Methods  | ✅ In Progress | Function Calling, Function Overloading |
