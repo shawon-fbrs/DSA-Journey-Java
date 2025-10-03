@@ -114,7 +114,7 @@ public class Pattern {
         //invHaPWNums(5);
         //floydsTri(5);
         //zeroOne(5);
-        //butterFly(4);
+        butterFly(4);
 
     }
 }
