@@ -1,0 +1,11 @@
+Questions ->
+    01 - Get a number from the user and print whether it is positive or negative
+    02 - Get input a year from the user and check Leap year or not
+    03 - Check a number odd or even
+    04 - Max of three Numbers
+    05 - Grade Calculator
+    06 - Vowel or Consonant
+    07 - Triangle Validity
+    08 - Quadrant Finder
+    09 - ATM Withdrawl
+    10 - Electricity Bill Calculator
