@@ -1,0 +1,13 @@
+
+Loops questions-> 
+
+    1. Reverse a Number.
+    2. Sum of digits.
+    3. Guess the number game.
+    4. Menu Driven Calculator
+    5. Password Generator.
+    6. Number Validator.
+    7. Multiplication Table.
+    8. Fibonacci Series.
+    9. Prime Number checker.
+    10. Patterns---->
